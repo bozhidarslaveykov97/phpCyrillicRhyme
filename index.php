@@ -1,1 +1,3 @@
-Hello, slav4ou!
+<?php
+
+header('Location: public'); 
